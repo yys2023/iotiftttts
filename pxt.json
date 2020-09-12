@@ -1,0 +1,21 @@
+{
+    "name": "IOT&IFTTT&TS",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "IOT&IFTTT_1": "github:yys2023/iotifttt_1#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
